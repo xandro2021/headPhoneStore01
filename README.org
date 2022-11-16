@@ -1,0 +1,20 @@
+#+title: Ecommerce
+
+* About
+This is just a website design I learned to create by following the tutorial in the CSS course made by the Mexican programmer and designer Juan Pablo De la torre Valdez in Udemy.
+* Interesting things learned in this Project
++ The use gradients
++ The use of gradients with and image
++ The use of the .heroic div with a background image
++ Basics of Grid Layout and when to use it
++ Basics of Flex box and when to use it
++ Normalizing CSS
++ Recommended general styles before start
++ Use of rems
++ Interesting html components to use with like fieldset, legend, input[list=""], datalist and its options
++ How to use the :not pseudo-class
++ Using Grid Layout with autofit and the function minmax()
++ The use of the CSS property object-fit to deal with images together with the value cover for that and for background-size
++ The importance of working CSS with modules
++ Importing and using fonts from Google fonts
++ The importance of creating and using Utilities classes
