@@ -2,6 +2,6 @@
 
 * About
 This is second website design I learned to create by following the tutorial in the CSS course made by the Mexican programmer and designer Juan Pablo De la torre Valdez in Udemy.
-Course Name: CSS La Guía Completa - Flexbox, CSS Grid, SASS +20 proyectos
++ Course Name: CSS La Guía Completa - Flexbox, CSS Grid, SASS +20 proyectos
 
 * Interesting things learned in this Project
