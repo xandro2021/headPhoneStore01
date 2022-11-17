@@ -64,6 +64,13 @@ img {
     text-align: center;
 }
 
+/* DEGRADADOS */
+.degradado-verde {
+    color: transparent;
+    background: linear-gradient(to right, var( --primario ) 0%, var( --secundario ) 100%);
+    -webkit-background-clip: text;
+}
+
 /* HEADER */
 .header {
     background-color: var( --negro );
