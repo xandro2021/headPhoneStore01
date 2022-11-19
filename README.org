@@ -5,3 +5,10 @@ This is submodule of my studying notes which were released as a public project i
 + Course Name: CSS La Guía Completa - Flexbox, CSS Grid, SASS +20 proyectos
 
 * Interesting things learned in this Project
++ It was reinforced the use of Flexbox and Grid Layouts to position every box element in the website
++ it was reinforced the use of linear gradient with the transparent property to use with images
++ it was reiforced the use of the different background properties to play with images depending of the mediaquery
++ it was learned how to use gradients in titles like H1 and H2 to make them look Colorful
++ it was learned how to create a better website by using the different extensions in images like .avif, webp, and jpg according with the browser support.
++ it was reinforced the use of submodules to write CSS.
++ it was reinforced the mobile First strategy to start writing CSS.
